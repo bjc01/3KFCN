@@ -1,2 +1,4 @@
-# 1KFCN
-One Knob Fuzz Custom Noise
+# 3KFCN
+Three Knob Fuzz Custom Noise
+
+based on classic one knob fuzz by Coloursound.
